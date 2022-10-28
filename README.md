@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Adsenser%20%20&height=200&fontSize=100)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20everyone&fontSize=90)
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=r00t_0">
 
