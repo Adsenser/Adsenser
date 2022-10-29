@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on [https://xn--o39an51b2re.com/]
 - 📫 How to reach me: **ip9368@naver.com**
 - 😄 Pronouns: Just call me **Ad**
-- ⚡ Fun fact: Development is part of my dream, not everything
+
 ***
 
 ***
