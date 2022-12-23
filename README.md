@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Adsenser%20%20&height=110&fontSize=110)
 <div align="center">
-  
-![anne-nygard-6BCgNl-UY6A-unsplash](https://user-images.githubusercontent.com/111646357/209261034-dae8894c-67f7-4b88-b664-b1f01ee0cff0.jpg)
+
+ ![semiconductor-icon](https://user-images.githubusercontent.com/111646357/209261363-b01045c6-0662-4bea-80d8-77267c56d72e.png)
+
 
   
 <br>
