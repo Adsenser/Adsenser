@@ -14,15 +14,4 @@
  
 ![warboy bfa9e7cedcb8d490306c](https://user-images.githubusercontent.com/111646357/209261783-2e30cfd0-f225-4630-9991-ad87238b2353.png)
 
-
-
-
-
-
 </div>
-
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Adsenser%20%20&height=210&fontSize=130)
-
- </div>
