@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Adsenser%20%20&height=110&fontSize=110)
+
 <div align="center">
 
 <br>
@@ -21,3 +21,8 @@
 
 </div>
 
+<div align="center">
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Adsenser%20%20&height=210&fontSize=130)
+
+ </div>
